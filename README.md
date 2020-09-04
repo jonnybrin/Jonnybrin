@@ -1,8 +1,8 @@
 ### <h1>Hi I'm Jonathan 👋</h1>
 
-  <div style="background: #000000;">
+  <div>
 
-    <img align="right" src="https://github.com/jonnybrin/Jonnybrin/blob/master/Github%20Bio.jpg?raw=true">
+    <p><img align="right" src="https://github.com/jonnybrin/Jonnybrin/blob/master/Github%20Bio.jpg?raw=true"></p>
   </div>
 
 <!--
