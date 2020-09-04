@@ -1,4 +1,4 @@
-### Hi I'm Jonathan 👋
+### <h1>Hi I'm Jonathan 👋</h1>
 
   <div style="background: #000000;">
     <p>Hi</p>
