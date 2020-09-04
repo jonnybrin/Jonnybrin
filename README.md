@@ -1,7 +1,7 @@
 ### <h1>Hi I'm Jonathan 👋</h1>
 
   <div style="background: #000000;">
-    <p>Hi</p>
+
     <img align="right" src="https://github.com/jonnybrin/Jonnybrin/blob/master/Github%20Bio.jpg?raw=true">
   </div>
 
