@@ -1,6 +1,6 @@
 ### Hi I'm Jonathan 👋
 
-  <div style="background: cadetblue;">
+  <div style="background: #000000;">
     <p>Hi</p>
     <img align="right">
   </div>
