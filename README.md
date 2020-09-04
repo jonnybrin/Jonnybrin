@@ -2,7 +2,7 @@
 
   <div style="background: #000000;">
     <p>Hi</p>
-    <img align="right">
+    <img align="right" src="https://github.com/jonnybrin/Jonnybrin/blob/master/Github%20Bio.jpg?raw=true">
   </div>
 
 <!--
