@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Jonathan 👋
+
+  <div style="background: cadetblue;">
+    <p>Hi</p>
+    <img align="right">
+  </div>
 
 <!--
 **jonnybrin/Jonnybrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
