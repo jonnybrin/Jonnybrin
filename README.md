@@ -9,8 +9,8 @@
 <p>You can find me at:</p>
 
 <ul>
-  <li><a href="www.linkedin.com/in/jonathan-brindley-043557a0" target="_blank">Linkedin</a></li>
-  <li></li>
+  <li><a href="https://www.linkedin.com/in/jonathan-brindley-043557a0" target="_blank">Linkedin</a></li>
+  <li><a href="https://codepen.io/jonathanb" target="_blank">Codepen</a></li>
 </ul>
 
 <!--
