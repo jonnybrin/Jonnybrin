@@ -4,7 +4,7 @@
   <img src="https://github.com/jonnybrin/Jonnybrin/blob/master/Github_bio_banner.jpg?raw=true">
   </p>
 
-<p style="padding-top:20px;">I'm a front-end web developer who is passionate about making engaging and easy to use websites. I love building Wordpress sites, making my own custom themes and designing my own images in Adobe XD and Photoshop. I really enjoy working as part of a team and currently work at a design agency in Northampton.</p>
+<p style="padding-top:20px;">I'm a front-end web developer who is passionate about making engaging and easy to use websites. I love building Wordpress sites, making my own custom themes and designing my own images in Adobe XD and Photoshop. I really enjoy working as part of a team and currently work as a front-end developer at a digital agency in Northampton.</p>
 <!--
 **jonnybrin/Jonnybrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
