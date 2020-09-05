@@ -3,8 +3,8 @@
   <div>
   <img align="right" src="https://github.com/jonnybrin/Jonnybrin/blob/master/Github_bio_banner.jpg?raw=true">
   </div>
-<br>
-<p>I'm a front-end web developer who is passionate about making engaging and easy to use websites. I love building Wordpress sites with a custom theme and currently work at a design agency in Northampton.</p>
+
+<p style="padding-top:20px;">I'm a front-end web developer who is passionate about making engaging and easy to use websites. I love building Wordpress sites with a custom theme and currently work at a design agency in Northampton.</p>
 <!--
 **jonnybrin/Jonnybrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
