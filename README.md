@@ -1,4 +1,4 @@
-### <h1>Hi I'm Jonathan 👋</h1>
+<h1>Hi I'm Jonathan 👋</h1>
 <p><img src="https://github.com/jonnybrin/Jonnybrin/blob/master/github_bio_banner.jpg?raw=true"></p>
 
 <p style="padding-top:20px;">I'm a front-end web developer who is passionate about making engaging and easy to use websites. I love building Wordpress sites, making my own custom themes and designing my own images in Adobe XD and Photoshop. I really enjoy working as part of a team and currently work as a front-end developer at a digital agency in Northampton.</p>
