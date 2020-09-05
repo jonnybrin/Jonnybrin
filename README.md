@@ -2,7 +2,7 @@
 
   <div>
   <p></p>
-  <img align="right" src="https://github.com/jonnybrin/Jonnybrin/blob/master/Github_bio_image.jpg?raw=true">
+  <img align="right" src="https://github.com/jonnybrin/Jonnybrin/blob/master/Github_bio_banner.jpg?raw=true">
   </div>
 
 <!--
